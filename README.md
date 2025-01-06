@@ -51,4 +51,4 @@ Access the web app at http://localhost:3000/
 
 You can deploy frontend into vercel or netlify also. Thanks
 
-`Build with 💛 by Hasan`
+`Build with 💛 by Sahil Verma`
